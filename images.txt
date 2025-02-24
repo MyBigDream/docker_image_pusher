@@ -2,3 +2,4 @@
 #pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
 #nvcr.io/nvidia/pytorch:25.01-py3
 nginx:latest
+
